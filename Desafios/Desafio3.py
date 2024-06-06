@@ -5,4 +5,7 @@
 num1 = int(10)
 num2 = float(3.5)
 
-
+print(f'{num1 + num2}')
+print(f'{num1 - num2}')
+print(f'{num1 * num2}')
+print(f'{num1 / num2:.2f}')
