@@ -5,5 +5,5 @@ num = int(input("Digite um número: "))
 def aceita(num):
     pontencia = num**2
     
-    print("O resultado é",num)
+    print("O resultado é",pontencia)
     
