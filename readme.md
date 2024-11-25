@@ -27,6 +27,14 @@ C:.
 │   
 └───Desafios
         Desafio1.py
+        Desafio2.py
+        Desafio3.py
+        Desafio4.py
+        Desafio5.py
+        Desafio6.py
+        Desafio7.py
+        Desafio8.py
+        Desafio9.py
         Desafio10.py
         Desafio11.py
         Desafio12.py
@@ -37,7 +45,6 @@ C:.
         Desafio17.py
         Desafio18.py
         Desafio19.py
-        Desafio2.py
         Desafio20.py
         Desafio21.py
         Desafio22.py
@@ -48,14 +55,7 @@ C:.
         Desafio27.py
         Desafio28.py
         Desafio29.py
-        Desafio3.py
         Desafio30.py
-        Desafio4.py
-        Desafio5.py
-        Desafio6.py
-        Desafio7.py
-        Desafio8.py
-        Desafio9.py
 ```
 
 ## 📝Experiência
